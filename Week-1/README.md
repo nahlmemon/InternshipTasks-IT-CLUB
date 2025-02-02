@@ -2,6 +2,7 @@ Java Programming Internship - Week 1
 This repository contains Java programs as part of the Week 1 tasks for the IT Club's Java Programming Internship.
 
 Task Summaries
+
 1️⃣ Basic Calculator (Calculator.java)
 A command-line calculator that allows users to perform addition, subtraction, multiplication, and division with error handling for division by zero.
 
