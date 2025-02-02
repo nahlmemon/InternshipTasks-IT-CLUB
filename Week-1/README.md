@@ -12,6 +12,7 @@ Enter two numbers when prompted.
 Select an operation (+, -, *, /).
 View the calculated result.
 Choose to perform another calculation or exit.
+
 2️⃣ Data Types, Variables & Operators (DataTypesVariablesOperators.java)
 A Java program demonstrating primitive & non-primitive data types, arithmetic operations, and conditional statements.
 
@@ -24,6 +25,7 @@ How to Run:
 
 Execute DataTypesVariablesOperators.java.
 Observe the output of different data types and operators.
+
 3️⃣ Pattern Printer (patterns.java)
 A Java program that prints two types of patterns using loops:
 ✔️ Pyramid Pattern
